@@ -284,20 +284,6 @@ agent_executor.invoke({"input": "Which Asian country has the largest population?
 
 ---
 
-## 📁 Project Structure
-
-```
-react-selfask-agents/
-├── react_agent.py          # ReAct agent implementation
-├── self_ask_agent.py       # Self-Ask agent implementation
-├── requirements.txt        # Python dependencies
-└── README.md               # This file
-```
-
-> 💡 Can also be run as a single Jupyter / Colab notebook.
-
----
-
 ## 🤝 Contributing
 
 ```bash
